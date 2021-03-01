@@ -1,6 +1,6 @@
 {
   "name": "@samislam/log",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "log is a simple utility that helps in logging colorful outputs to the console",
   "main": "log.js",
   "scripts": {
@@ -28,7 +28,6 @@
     "type": "git",
     "url": "https://github.com/samislam/log.git"
   },
-  
   "prettier": {
     "tabWidth": 2,
     "semi": false,
