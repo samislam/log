@@ -1,6 +1,6 @@
 {
   "name": "@samislam/log",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "log is a simple utility that helps in logging colorful outputs to the console. This module depends on the popular, colors module.",
   "main": "index.js",
   "scripts": {
