@@ -1,0 +1,33 @@
+{
+  "name": "@samislam/log",
+  "version": "1.0.0",
+  "description": "log is a simple utility that helps in logging colorful outputs to the console",
+  "main": "log.js",
+  "scripts": {
+    "test": "node ./tests/test.js"
+  },
+  "keywords": [
+    "log",
+    "logjs",
+    "consolelog",
+    "logging",
+    "colors",
+    "colourfullogging",
+    "consolelogcolor",
+    "consolelogcolors",
+    "logerror",
+    "logsuccess",
+    "loginfo"
+  ],
+  "author": "samislam",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "prettier": {
+    "tabWidth": 2,
+    "semi": false,
+    "printWidth": 80,
+    "singleQuote": true
+  }
+}
