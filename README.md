@@ -1,6 +1,6 @@
 # logJS
 
-Origiinally Created in 19 - 01 - 2021
+Originally Updated on 19 - 01 - 2021
 
 log is a simple utility that helps in logging colorful outputs to the console.
 This module depends on the popular, [colors](https://www.npmjs.com/package/colors) module.
