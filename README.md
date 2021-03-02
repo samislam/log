@@ -1,6 +1,7 @@
 # logJS
 
-Originally Updated on 19 - 01 - 2021
+Origiinally Created in 19 - 01 - 2021
+
 
 log is a simple utility that helps in logging colorful outputs to the console.
 This module depends on the popular, [colors](https://www.npmjs.com/package/colors) module.
@@ -37,6 +38,7 @@ log("Hello", "Everyone")
 log({ name: "mr.X" })
 ```
 
+
 ![screenshot_1.png](https://raw.githubusercontent.com/samislam/log/main/screenshots/screenshot_1.png)
 
 ## `log.SOMETHING()`
@@ -67,6 +69,7 @@ log.done("Testing the log module")
 
 ![screenshot_2.png](https://raw.githubusercontent.com/samislam/log/main/screenshots/screenshot_2.png)
 
+
 * * *
 
 ## `log.label`
@@ -94,7 +97,6 @@ log.info(log.label, "Testing the log module");
 log.information(log.label, "Testing the log module");
 log.done(log.label, "Testing the log module");
 ```
-
 ![screenshot_3.png](https://raw.githubusercontent.com/samislam/log/main/screenshots/screenshot_3.png)
 
 - You can only use `log.label` as the first argument in a `log.SOMETHING()` function.
@@ -138,7 +140,10 @@ log.set("merhaba", "blue", "Hello: ");
 log.merhaba("The application is now launched")
 log.merhaba(log.label, "The application is now launched")
 ```
+
+
 ![screenshot_4.png](https://raw.githubusercontent.com/samislam/log/main/screenshots/screenshot_4.png)
+
 
 # FAQ:
 **Q1: From where I can know the list of accepted 
