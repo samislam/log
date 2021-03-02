@@ -16,7 +16,7 @@ npm i @samislam/log
 In your NodeJS app:
 
 ```js
-const log = require("log");
+const log = require("@samislam/log");
 ```
 
 # Usage
